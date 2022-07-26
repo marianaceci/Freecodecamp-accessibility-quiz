@@ -1,6 +1,6 @@
 # Freecodecamp Responsive Web Design
 
-## Accessbility Quiz
+## Accessibility Quiz
 
 ### Screenshot
 
@@ -8,4 +8,4 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marianaceci.github.io/Freecodecamp-accessibility-quiz/](https://marianaceci.github.io/Freecodecamp-accessibility-quiz/)
